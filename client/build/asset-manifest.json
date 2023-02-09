@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3d97b36a.css",
+    "main.js": "/static/js/main.d7a10f1c.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/bg-image.jpg": "/static/media/bg-image.1773631c726a77aa90b5.jpg",
+    "static/media/res-logo.png": "/static/media/res-logo.2f9021c4ef5fe532038e.png",
+    "index.html": "/index.html",
+    "main.3d97b36a.css.map": "/static/css/main.3d97b36a.css.map",
+    "main.d7a10f1c.js.map": "/static/js/main.d7a10f1c.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d97b36a.css",
+    "static/js/main.d7a10f1c.js"
+  ]
+}
